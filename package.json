@@ -1,6 +1,7 @@
 {
   "name": "ezlabs_contact_form",
   "version": "1.0.0",
+  "homepage": "https://Anusha200410.github.io/contact-form",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
